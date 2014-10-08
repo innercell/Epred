@@ -43,7 +43,7 @@ $minimum=0;
 $average=0;
 $group=0; #number of epigroups
 
-#obs. start + (range+1) = A-A number on sequence
+#obs. start + (range+1) = A-A number on sequence 
 
 
 ##########################################
